@@ -1,4 +1,4 @@
-# blogs
+# Property
 
 # git clone https://github.com/KamaliyaDhawal/property-nodejs-api.git
 # cd ./property-nodejs-api
